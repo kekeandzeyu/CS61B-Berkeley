@@ -1,0 +1,37 @@
+Inserting 10 strings with length of 100 into the maps:
+class ULLMap: 0.00 sec
+class BSTMap: 0.00 sec
+Java's Built-in TreeMap: 0.00 sec
+Java's Built-in HashMap: 0.00 sec
+
+Inserting 100 strings with length of 1000 into the maps:
+class ULLMap: 0.01 sec
+class BSTMap: 0.00 sec
+Java's Built-in TreeMap: 0.00 sec
+Java's Built-in HashMap: 0.00 sec
+CPU use: 1%
+Memory allocation: 24.63MB
+
+Inserting 1000 strings with length of 1000 into the maps:
+class ULLMap: 0.02 sec
+class BSTMap: 0.01 sec
+Java's Built-in TreeMap: 0.01 sec
+Java's Built-in HashMap: 0.01 sec
+CPU use: 2%
+Memory allocation: 27.74MB
+
+Inserting 10000 strings with length of 1000 into the maps:
+class ULLMap: 0.81 sec
+class BSTMap: 0.09 sec
+Java's Built-in TreeMap: 0.08 sec
+Java's Built-in HashMap: 0.09 sec
+CPU use: 7%
+Memory allocation: 69.42MB
+
+Inserting 1000 strings with length of 10000 into the maps:
+class ULLMap: 2.24 sec
+class BSTMap: 0.85 sec
+Java's Built-in TreeMap: 0.86 sec
+Java's Built-in HashMap: 0.86 sec
+CPU use: 5%
+Memory allocation: 66.9MB
