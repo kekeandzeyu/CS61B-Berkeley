@@ -1,178 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0f3d0ac-7660-4021-b935-fbc6331b36bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NGrams.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NGrams.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/Saxon-HE-11.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/Saxon-HE-11.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/VectorGraphics2D-0.13.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/VectorGraphics2D-0.13.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/algs4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/algs4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/animated-gif-lib-1.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/animated-gif-lib-1.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/antlr4-runtime-4.11.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/antlr4-runtime-4.11.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/apiguardian-api-1.1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/apiguardian-api-1.1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/asm-9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/asm-9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/asm-analysis-9.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/asm-analysis-9.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/asm-commons-9.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/asm-commons-9.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/asm-tree-9.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/asm-tree-9.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/asm-util-9.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/asm-util-9.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/auto-value-annotations-1.8.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/auto-value-annotations-1.8.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/bcel-6.5.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/bcel-6.5.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/checker-compat-qual-2.5.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/checker-compat-qual-2.5.5.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/checker-qual-3.13.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/checker-qual-3.13.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/checkstyle-10.5.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/checkstyle-10.5.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/classmexer.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/classmexer.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/commons-beanutils-1.9.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/commons-beanutils-1.9.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/commons-codec-1.15.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/commons-codec-1.15.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/commons-collections-3.2.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/commons-collections-3.2.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/commons-lang3-3.12.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/commons-lang3-3.12.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/commons-logging-1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/commons-logging-1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/commons-text-1.10.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/commons-text-1.10.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/dom4j-2.1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/dom4j-2.1.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/error_prone_annotations-2.7.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/error_prone_annotations-2.7.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/failureaccess-1.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/failureaccess-1.0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/fontbox-2.0.24.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/fontbox-2.0.24.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/graphics2d-0.33.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/graphics2d-0.33.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/gson-2.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/gson-2.10.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/guava-30.1.1-android.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/guava-30.1.1-android.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/hamcrest-core-1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/hamcrest-core-1.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/httpclient5-5.1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/httpclient5-5.1.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/httpcore5-5.1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/httpcore5-5.1.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/httpcore5-h2-5.1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/httpcore5-h2-5.1.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/j2objc-annotations-1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/j2objc-annotations-1.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jama-1.0.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jama-1.0.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/javaparser-core-3.24.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/javaparser-core-3.24.10.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/javassist-3.29.2-GA.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/javassist-3.29.2-GA.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/javax.servlet-api-3.1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/javax.servlet-api-3.1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jaxen-1.2.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jaxen-1.2.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jcip-annotations-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jcip-annotations-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jetty-client-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jetty-client-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jetty-http-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jetty-http-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jetty-io-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jetty-io-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jetty-security-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jetty-security-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jetty-server-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jetty-server-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jetty-servlet-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jetty-servlet-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jetty-util-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jetty-util-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jetty-util-ajax-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jetty-util-ajax-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jetty-webapp-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jetty-webapp-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jetty-xml-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jetty-xml-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jh61b-secureautograderrunner.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jh61b-secureautograderrunner.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jh61b.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jh61b.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/jsr305-3.0.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/jsr305-3.0.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/junit-4.13.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/junit-4.13.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/junit-jupiter-5.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/junit-jupiter-5.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/junit-jupiter-api-5.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/junit-jupiter-api-5.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/junit-jupiter-engine-5.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/junit-jupiter-engine-5.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/junit-jupiter-params-5.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/junit-jupiter-params-5.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/junit-platform-commons-1.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/junit-platform-commons-1.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/junit-platform-engine-1.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/junit-platform-engine-1.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/junit-platform-launcher-1.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/junit-platform-launcher-1.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/junit-vintage-engine-5.9.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/junit-vintage-engine-5.9.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/log4j-api-2.19.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/log4j-api-2.19.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/log4j-core-2.19.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/log4j-core-2.19.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/opentest4j-1.2.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/opentest4j-1.2.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/pdfbox-2.0.24.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/pdfbox-2.0.24.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/picocli-4.7.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/picocli-4.7.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/proj2a.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/proj2a.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/reflections-0.10.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/reflections-0.10.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/slf4j-api-2.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/slf4j-api-2.0.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/slf4j-simple-2.0.6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/slf4j-simple-2.0.6.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/spark-core-2.9.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/spark-core-2.9.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/spotbugs-4.7.3.pom" beforeDir="false" afterPath="$PROJECT_DIR$/include/spotbugs-4.7.3.pom" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/spotbugs-annotations-4.7.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/spotbugs-annotations-4.7.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/truth-1.1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/truth-1.1.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/ucb.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/ucb.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/websocket-api-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/websocket-api-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/websocket-client-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/websocket-client-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/websocket-common-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/websocket-common-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/websocket-server-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/websocket-server-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/websocket-servlet-9.4.48.v20220622.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/websocket-servlet-9.4.48.v20220622.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/xchart-3.8.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/xchart-3.8.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/xmlresolver-4.4.3-data.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/xmlresolver-4.4.3-data.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/xmlresolver-4.4.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/include/xmlresolver-4.4.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/browser/NgordnetQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/browser/NgordnetQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/browser/NgordnetQueryHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/browser/NgordnetQueryHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/browser/NgordnetServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/browser/NgordnetServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/DummyHistoryHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/DummyHistoryHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/DummyHistoryTextHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/DummyHistoryTextHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/FileReadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/FileReadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PlotDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PlotDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ngrams/NGramMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ngrams/NGramMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ngrams/TimeSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ngrams/TimeSeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plotting/Plotter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/plotting/Plotter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/blank.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/blank.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ngordnet.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/ngordnet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ngordnet.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/ngordnet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ngordnet.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/ngordnet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ngordnet_2a.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/ngordnet_2a.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/HistoryTextHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/HistoryTextHandlerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/NGramMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/NGramMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/TimeSeriesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TimeSeriesTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="74f8a1a5-795f-4d15-9d8d-39668c08a372" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2pyS2GXxuWr7mOkdrnQIBfpJFZg" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2rLUnONTdmZwBgMoGf321kSgnWo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.NGramMapTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TimeSeriesTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu-24.04/home/kekeandzeyu/CS61B/project/NGrams/include&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a0f3d0ac-7660-4021-b935-fbc6331b36bd" name="Changes" comment="" />
-      <created>1733736614863</created>
+      <changelist id="74f8a1a5-795f-4d15-9d8d-39668c08a372" name="Changes" comment="" />
+      <created>1736338015818</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1733736614863</updated>
-      <workItem from="1733736616136" duration="4000" />
-      <workItem from="1733736741857" duration="4419000" />
-      <workItem from="1733741682559" duration="111000" />
+      <updated>1736338015818</updated>
+      <workItem from="1736338017132" duration="49000" />
     </task>
     <servers />
   </component>

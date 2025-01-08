@@ -55,49 +55,4 @@ public class TimeSeriesTest {
         assertThat(totalPopulation.years()).isEmpty();
         assertThat(totalPopulation.data()).isEmpty();
     }
-
-    @Test
-    public void testDividedBy() {
-        TimeSeries catPopulation = new TimeSeries();
-        catPopulation.put(1991, 10.0);
-        catPopulation.put(1992, 100.0);
-        catPopulation.put(1994, 200.0);
-
-        TimeSeries dogPopulation = new TimeSeries();
-        dogPopulation.put(1991, 2.0);
-        dogPopulation.put(1992, 5.0);
-        dogPopulation.put(1994, 10.0);
-        dogPopulation.put(1995, 500.0); // Extra year in dogPopulation, should be ignored
-
-        TimeSeries quotient = catPopulation.dividedBy(dogPopulation);
-
-        List<Integer> expectedYears = new ArrayList<>(Arrays.asList(1991, 1992, 1994));
-        assertThat(quotient.years()).isEqualTo(expectedYears);
-
-        List<Double> expectedQuotient = new ArrayList<>(Arrays.asList(5.0, 20.0, 20.0));
-
-        for (int i = 0; i < expectedQuotient.size(); i += 1) {
-            assertThat(quotient.data().get(i)).isWithin(1E-10).of(expectedQuotient.get(i));
-        }
-    }
-
-    /**
-     * More unit tests for TimeSeries.dividedBy() method.
-     * @author Zeyu Li
-     */
-    @Test
-    public void testDividedByMissingYear() {
-        TimeSeries catPopulation = new TimeSeries();
-        catPopulation.put(1991, 10.0);
-        catPopulation.put(1992, 100.0);
-
-        TimeSeries dogPopulation = new TimeSeries();
-        dogPopulation.put(1991, 2.0);
-
-        try {
-            catPopulation.dividedBy(dogPopulation);
-        } catch (IllegalArgumentException e) {
-            assertThat(e).hasMessageThat().contains("TS is missing a year that exists in this TimeSeries");
-        }
-    }
 } 
