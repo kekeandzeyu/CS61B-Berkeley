@@ -1,7 +1,5 @@
 # CS61B Study Materials
 
-中文版请移步[这里](README_zh_CN.md)
-
 ## 1 Introduction
 
 In this repository, I've packed some materials you may refer to when studying CS61B, including:
@@ -14,21 +12,21 @@ In this repository, I've packed some materials you may refer to when studying CS
 
 4. Discussions.
 
-> Note: * represents that details and implementations are completed by my own, so there can be some mistakes. Please contact me via emails if any error is found, thanks!
+> Note: * represents that details and implementations are completed by my own, so there can be some mistakes. Please contact me via email kekeandzeyu@gmail.com if any error is found, thanks!
 
-All the files above are based CS61B Spring 2024 of UC Berkeley. Different semesters can have different projects, homework, etc., so DO NOT COPY WHEN STUDYING!
+All the files above are based CS61B Spring 2025 of UC Berkeley. Different semesters can have different projects, homework, etc., so DO NOT COPY WHEN STUDYING!
 
 Want to get my study notes in learning CS61B? Please visit [my website](https://kekeandzeyu.github.io/Computer-Science-Study-Notes/)!
 
-Need the skeleton files in CS61B Spring 2024? Please visit [here](https://github.com/Berkeley-CS61B/skeleton-sp24).
+Need the skeleton files in CS61B Spring 2025? Please visit [here](https://github.com/Berkeley-CS61B/skeleton-sp25).
 
-Need slides, videos or more study materials in CS61B Spring 2024? Please visit [here](https://sp24.datastructur.es/).
+Need slides, videos or more study materials in CS61B Spring 2024? Please visit [here](https://sp25.datastructur.es/).
 
 Need other versions of CS61B? Please visit the official website for more!
 
 ## 2 How to use it
 
-Every homework, lab and project are uploaded in folders, and can be directly opened and used in Intellij Idea, so no need to create a new project and drag all the Java files into it!
+Due to the large size of projects and so on, I only pack the source code in the repository. For projects, homework, etc., you can download my solutions and put them in a Intellij Idea project.
 
 ## 3 License
 
